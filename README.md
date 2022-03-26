@@ -1,5 +1,5 @@
 # CS50W Project 3 - Mail
-Status: **INCOMPLETE**
+Status: complete
   
 ## Description
 * [Project specification](https://cs50.harvard.edu/web/2020/projects/3/)
