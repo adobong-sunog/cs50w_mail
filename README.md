@@ -2,7 +2,7 @@
 Status: complete
   
 ## Description
-* [Project specification](https://cs50.harvard.edu/web/2020/projects/3/mail/)
+* [Project specification](https://cs50.harvard.edu/web/2020/projects/3/mail/#specification)
 * **[Django](https://www.djangoproject.com) is used as web framework** and SQLite as the database.
 
 ## Setup 
