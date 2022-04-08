@@ -1,5 +1,5 @@
 # CS50W Project 3 - Mail
-Status: completed &submitted (Pass)
+Status: completed & submitted (Pass)
   
 ## Description
 * [Project specification](https://cs50.harvard.edu/web/2020/projects/3/mail/#specification)
