@@ -7,7 +7,7 @@ Status: completed & submitted (Pass)
 
 ## Setup 
 > Python, [Git](https://git-scm.com) and [Django](https://www.djangoproject.com) must be installed on your computer.  
-> Creating a virtual environment is optional, but it is usually better to do so if you know how
+> Creating a virtual environment is optional, but it is usually better to do so if you know how.
 
 Clone this repository
 ```
