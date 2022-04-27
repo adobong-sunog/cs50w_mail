@@ -6,7 +6,7 @@ Status: completed & submitted (Pass)
 * **[Django](https://www.djangoproject.com) is used as web framework** and SQLite as the database.
 
 ## Setup 
-> Python, [Git](https://git-scm.com) and [Django](https://www.djangoproject.com) must be installed on your computer.  
+> Python and [Git](https://git-scm.com) must be installed on your computer.  
 > Creating a virtual environment is optional, but it is usually better to do so if you know how.
 
 Clone this repository
