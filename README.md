@@ -10,7 +10,7 @@ Status: completed & submitted (Pass)
 > Creating a virtual environment is optional, but it is usually better to do so if you know how.
 
 Clone this repository
-```
+```bash
 git clone https://github.com/AncientSoup/cs50w_mail/
 cd cs50w_mail
 ```  
